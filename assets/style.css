@@ -1,0 +1,15 @@
+button{
+    color: black;
+}
+.carousel-caption{
+    color: black;
+    background-color: rgba(75, 69, 69, 0.74);
+}
+
+.carousel-control-next{
+    background-color: rgba(75, 69, 69, 0.74);
+}
+
+.carousel-control-prev{
+    background-color: rgba(75, 69, 69, 0.74);
+}
